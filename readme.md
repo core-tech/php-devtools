@@ -26,6 +26,13 @@ PHPUnit にパスが通っているか確認します。
 	$ which phpunit
 	/d/php-devtools/vendor/bin/phpunit
 
+### ApiGen の確認
+
+apigen.php にパスが通っているか確認します。
+
+	$ which apigen.php
+	/d/php-devtools/vendor/bin/apigen.php
+
 ## ライセンス
 
 Copyright 2013, CoreTech Co.,Ltd. Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
