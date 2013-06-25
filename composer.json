@@ -1,6 +1,7 @@
 {
 	"require": {
 		"phpunit/phpunit": "3.7.*",
-		"apigen/apigen": "2.*"
+		"apigen/apigen": "2.*",
+		"fabpot/php-cs-fixer": "@dev"
 	}
 }

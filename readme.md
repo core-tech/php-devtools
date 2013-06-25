@@ -26,12 +26,14 @@ PHPUnit にパスが通っているか確認します。
 	$ which phpunit
 	/d/php-devtools/vendor/bin/phpunit
 
-### ApiGen の確認
+### その他
 
-apigen.php にパスが通っているか確認します。
+PHPUnit と同様の場所に
 
-	$ which apigen.php
-	/d/php-devtools/vendor/bin/apigen.php
+* apigen.php http://apigen.org/
+* php-cs-fixer http://cs.sensiolabs.org/
+
+が入っています。
 
 ## ライセンス
 
